@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Historia",
+        "description": "Preguntas de historia"
+    },
+    {
+        "category": "Ciencia",
+        "description": "Preguntas de ciencia"
+    },
+    {
+        "category": "Deportes",
+        "description": "Preguntas de deportes"
+    },
+    {
+        "category": "Geografía",
+        "description": "Preguntas de geografía"
+    },
+    {
+        "category": "Arte",
+        "description": "Preguntas de arte"
+    },
+    {
+        "category": "Tecnología",
+        "description": "Preguntas de tecnología"
+    }
+]
